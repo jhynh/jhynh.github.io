@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>my funni blogs</title>
+    <title>jason&#39;s blogs</title>
     <link>http://jhynh.github.io/</link>
-    <description>Recent content on my funni blogs</description>
+    <description>Recent content on jason&#39;s blogs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Jan 2023 11:23:22 -0800</lastBuildDate><atom:link href="http://jhynh.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Jan 2023 11:55:22 -0800</lastBuildDate><atom:link href="http://jhynh.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post_4</title>
+      <link>http://jhynh.github.io/posts/post_4/</link>
+      <pubDate>Sat, 14 Jan 2023 11:55:22 -0800</pubDate>
+      
+      <guid>http://jhynh.github.io/posts/post_4/</guid>
+      <description>test</description>
+    </item>
+    
     <item>
       <title>Creating a Game Engine</title>
       <link>http://jhynh.github.io/posts/post_3/</link>

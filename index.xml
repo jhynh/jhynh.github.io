@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>jason&#39;s website</title>
-    <link>http://jhynh.github.io/</link>
+    <link>https://jhynh.github.io/</link>
     <description>Recent content on jason&#39;s website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Jan 2023 11:23:22 -0800</lastBuildDate><atom:link href="http://jhynh.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Jan 2023 11:23:22 -0800</lastBuildDate><atom:link href="https://jhynh.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Creating a Game Engine</title>
-      <link>http://jhynh.github.io/posts/post_3/</link>
+      <link>https://jhynh.github.io/posts/post_3/</link>
       <pubDate>Sat, 14 Jan 2023 11:23:22 -0800</pubDate>
       
-      <guid>http://jhynh.github.io/posts/post_3/</guid>
+      <guid>https://jhynh.github.io/posts/post_3/</guid>
       <description>Followed Carl Birch [aka Let&amp;rsquo;s Make Games] tutorial on SDL</description>
     </item>
     
     <item>
       <title>Android Development with ChatGPT</title>
-      <link>http://jhynh.github.io/posts/post_2/</link>
+      <link>https://jhynh.github.io/posts/post_2/</link>
       <pubDate>Sat, 14 Jan 2023 11:20:07 -0800</pubDate>
       
-      <guid>http://jhynh.github.io/posts/post_2/</guid>
+      <guid>https://jhynh.github.io/posts/post_2/</guid>
       <description>Reliability was an issue but it was refreshing to get responses based on conceptual questions. A refreshing alternative to using a traditional search engine.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://jhynh.github.io/archives/</link>
+      <link>https://jhynh.github.io/archives/</link>
       <pubDate>Sat, 14 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://jhynh.github.io/archives/</guid>
+      <guid>https://jhynh.github.io/archives/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://jhynh.github.io/about/</link>
+      <link>https://jhynh.github.io/about/</link>
       <pubDate>Sat, 14 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://jhynh.github.io/about/</guid>
+      <guid>https://jhynh.github.io/about/</guid>
       <description>Education Public schools in the Saddleback Valley Unified School District and Saddleback College make up my educational experience.
 Interests   Furthering my knowledge in Game Engine development
   Exploring DAWs for music development
@@ -50,10 +50,10 @@ Interests   Furthering my knowledge in Game Engine development
     
     <item>
       <title>my first blog</title>
-      <link>http://jhynh.github.io/posts/post_1/</link>
+      <link>https://jhynh.github.io/posts/post_1/</link>
       <pubDate>Thu, 12 Jan 2023 22:10:55 -0800</pubDate>
       
-      <guid>http://jhynh.github.io/posts/post_1/</guid>
+      <guid>https://jhynh.github.io/posts/post_1/</guid>
       <description>hello world in languages I know
 #include&amp;lt;iostream&amp;gt; int main(){ std::cout &amp;lt;&amp;lt; &amp;#34;hello person!&amp;#34; &amp;lt;&amp;lt; std::endl; return 0; } printf(&amp;#34;hello again!&amp;#34;) public static void main(String[]args){ System.out.println(&amp;#34;Hello once more!\n&amp;#34;); } </description>
     </item>

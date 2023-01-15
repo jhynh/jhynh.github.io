@@ -26,6 +26,29 @@
     </item>
     
     <item>
+      <title></title>
+      <link>http://jhynh.github.io/archives/</link>
+      <pubDate>Sat, 14 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://jhynh.github.io/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://jhynh.github.io/about/</link>
+      <pubDate>Sat, 14 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://jhynh.github.io/about/</guid>
+      <description>Education Public schools in the Saddleback Valley Unified School District and Saddleback College make up my educational experience.
+Interests   Furthering my knowledge in Game Engine development
+  Exploring DAWs for music development
+  The development of apps through Android Studio
+  Researching new softwares and technologies
+  Skills The languages I know best include C++ and C, Java, Python, and RISC-V. Server stacks such as LAMP, MEAN , and NMP.</description>
+    </item>
+    
+    <item>
       <title>my first blog</title>
       <link>http://jhynh.github.io/posts/post_1/</link>
       <pubDate>Thu, 12 Jan 2023 22:10:55 -0800</pubDate>

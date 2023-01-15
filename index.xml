@@ -6,16 +6,7 @@
     <description>Recent content on jason&#39;s blogs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Jan 2023 11:55:22 -0800</lastBuildDate><atom:link href="http://jhynh.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Post_4</title>
-      <link>http://jhynh.github.io/posts/post_4/</link>
-      <pubDate>Sat, 14 Jan 2023 11:55:22 -0800</pubDate>
-      
-      <guid>http://jhynh.github.io/posts/post_4/</guid>
-      <description>test</description>
-    </item>
-    
+    <lastBuildDate>Sat, 14 Jan 2023 11:23:22 -0800</lastBuildDate><atom:link href="http://jhynh.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Creating a Game Engine</title>
       <link>http://jhynh.github.io/posts/post_3/</link>
@@ -40,7 +31,7 @@
       <pubDate>Thu, 12 Jan 2023 22:10:55 -0800</pubDate>
       
       <guid>http://jhynh.github.io/posts/post_1/</guid>
-      <description>the languages i know off the top of my head
+      <description>hello world in languages I know
 #include&amp;lt;iostream&amp;gt; int main(){ std::cout &amp;lt;&amp;lt; &amp;#34;hello person!&amp;#34; &amp;lt;&amp;lt; std::endl; return 0; } printf(&amp;#34;hello again!&amp;#34;) public static void main(String[]args){ System.out.println(&amp;#34;Hello once more!\n&amp;#34;); } </description>
     </item>
     

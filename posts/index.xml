@@ -13,7 +13,9 @@
       <pubDate>Sat, 14 Jan 2023 11:23:22 -0800</pubDate>
       
       <guid>https://jhynh.github.io/posts/post_3/</guid>
-      <description>Followed Carl Birch [aka Let&amp;rsquo;s Make Games] tutorial on SDL</description>
+      <description>Followed Carl Birch&amp;rsquo;s tutorial with the addition of the meta build system CMake in an attempt to create a &amp;ldquo;game engine&amp;rdquo;.
+[WIP]-Will be implementing a GUI frontend and a more raw implementation using openGL itself.
+The Repo can be found here.</description>
     </item>
     
     <item>

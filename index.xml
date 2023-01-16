@@ -14,7 +14,7 @@
       
       <guid>https://jhynh.github.io/posts/post_3/</guid>
       <description>Followed Carl Birch&amp;rsquo;s tutorial with the addition of the meta build system CMake in an attempt to create a &amp;ldquo;game engine&amp;rdquo;.
-[WIP]-Will be implementing a GUI frontend and a more raw implementation using openGL itself.
+[WIP]-Will be implementing a GUI with dear imgui frontend alongside a raw implementation of openGL.
 The Repo can be found here.</description>
     </item>
     

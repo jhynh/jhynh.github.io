@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jason Huynh</title>
+    <title>Jason&#39;s Blogs</title>
     <link>https://jhynh.github.io/</link>
-    <description>Recent content on Jason Huynh</description>
+    <description>Recent content on Jason&#39;s Blogs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 14 Jan 2023 11:23:22 -0800</lastBuildDate><atom:link href="https://jhynh.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -16,6 +16,10 @@
       <description>Followed Carl Birch&amp;rsquo;s tutorial with the addition of the meta build system CMake in an attempt to create a &amp;ldquo;game engine&amp;rdquo;.
 [WIP]-Will be implementing a GUI with dear imgui frontend alongside a raw implementation of openGL.
 The Repo can be found here.</description>
+      <content>&lt;p&gt;Followed &lt;a href=&#34;https://www.youtube.com/@CarlBirch&#34;&gt;Carl Birch&lt;/a&gt;&amp;rsquo;s tutorial with the addition of the meta build system &lt;a href=&#34;https://cmake.org/&#34;&gt;CMake&lt;/a&gt; in an attempt to create a &amp;ldquo;game engine&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;[WIP]-Will be implementing a GUI with &lt;a href=&#34;https://github.com/ocornut/imgui&#34;&gt;dear imgui&lt;/a&gt; frontend alongside a raw implementation of &lt;a href=&#34;https://www.opengl.org/&#34;&gt;openGL&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The Repo can be found &lt;a href=&#34;https://github.com/jhynh/graphics&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</content>
     </item>
     
     <item>
@@ -26,6 +30,11 @@ The Repo can be found here.</description>
       <guid>https://jhynh.github.io/posts/post_2/</guid>
       <description>Reliability was an issue but it was refreshing to get responses based on conceptual questions. A refreshing alternative to using a traditional search engine.
 A beginner&amp;rsquo;s question answered with sufficient and straightforward instructions.</description>
+      <content>&lt;p&gt;Reliability was an issue but it was refreshing to get responses based on conceptual questions.
+A refreshing alternative to using a traditional search engine.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://jhynh.github.io/chatgpt_android.png&#34; alt=&#34;a showcase&#34;&gt;&lt;/p&gt;
+&lt;p&gt;A beginner&amp;rsquo;s question answered with sufficient and straightforward instructions.&lt;/p&gt;
+</content>
     </item>
     
     <item>
@@ -35,6 +44,7 @@ A beginner&amp;rsquo;s question answered with sufficient and straightforward ins
       
       <guid>https://jhynh.github.io/archives/</guid>
       <description></description>
+      <content></content>
     </item>
     
     <item>
@@ -49,6 +59,27 @@ Interests   Furthering my knowledge in Game Engine development
   The development of apps through Android Studio
   Researching new softwares and technologies
   Skills The languages I know best include C++ and C, Java, Python, and RISC-V. Server stacks such as LAMP, MEAN , and NMP, as well as database languages SQL/mariaDB and MangoDB.</description>
+      <content>&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
+&lt;p&gt;Public schools in the Saddleback Valley Unified School District and Saddleback College make up my educational experience.&lt;/p&gt;
+&lt;h2 id=&#34;interests&#34;&gt;Interests&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Furthering my knowledge in &lt;a href=&#34;https://en.wikipedia.org/wiki/Game_engine&#34;&gt;Game Engine&lt;/a&gt; development&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Exploring &lt;a href=&#34;https://en.wikipedia.org/wiki/Digital_audio_workstation&#34;&gt;DAWs&lt;/a&gt; for music development&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The development of apps through &lt;a href=&#34;https://developer.android.com/studio&#34;&gt;Android Studio&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Researching new softwares and technologies&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;skills&#34;&gt;Skills&lt;/h2&gt;
+&lt;p&gt;The languages I know best include &lt;code&gt;C++&lt;/code&gt; and &lt;code&gt;C&lt;/code&gt;, &lt;code&gt;Java&lt;/code&gt;, &lt;code&gt;Python&lt;/code&gt;, and &lt;code&gt;RISC-V&lt;/code&gt;. Server stacks such as &lt;a href=&#34;https://en.wikipedia.org/wiki/LAMP_(software_bundle)&#34;&gt;LAMP&lt;/a&gt;, &lt;a href=&#34;https://en.wikipedia.org/wiki/MEAN_(solution_stack)&#34;&gt;MEAN&lt;/a&gt;
+, and &lt;a href=&#34;https://en.wikipedia.org/wiki/List_of_Nginx%E2%80%93MySQL%E2%80%93PHP_packages&#34;&gt;NMP&lt;/a&gt;, as well as database languages &lt;code&gt;SQL&lt;/code&gt;/&lt;code&gt;mariaDB&lt;/code&gt; and &lt;code&gt;MangoDB&lt;/code&gt;. Rudimentary experience in frameworks like &lt;a href=&#34;https://en.wikipedia.org/wiki/Django_(web_framework)&#34;&gt;Django&lt;/a&gt;.&lt;/p&gt;
+</content>
     </item>
     
     <item>
@@ -59,6 +90,23 @@ Interests   Furthering my knowledge in Game Engine development
       <guid>https://jhynh.github.io/posts/post_1/</guid>
       <description>hello world in languages I know
 #include&amp;lt;iostream&amp;gt; int main(){ std::cout &amp;lt;&amp;lt; &amp;#34;hello person!&amp;#34; &amp;lt;&amp;lt; std::endl; return 0; } printf(&amp;#34;hello again!&amp;#34;) public static void main(String[]args){ System.out.println(&amp;#34;Hello once more!\n&amp;#34;); } MOV X1, #1 LDR X1, =helloworld MOV X2, #13 MOV X8, #64 SVC 0 </description>
+      <content>&lt;p&gt;hello world in languages I know&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-cpp&#34; data-lang=&#34;cpp&#34;&gt;&lt;span style=&#34;color:#75715e&#34;&gt;#include&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&amp;lt;iostream&amp;gt;&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;
+&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;
+&lt;span style=&#34;color:#66d9ef&#34;&gt;int&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;main&lt;/span&gt;(){
+	std&lt;span style=&#34;color:#f92672&#34;&gt;::&lt;/span&gt;cout &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;&amp;lt;&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;hello person!&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;&amp;lt;&lt;/span&gt; std&lt;span style=&#34;color:#f92672&#34;&gt;::&lt;/span&gt;endl;
+	&lt;span style=&#34;color:#66d9ef&#34;&gt;return&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;;
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;printf(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;hello again!&amp;#34;&lt;/span&gt;)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-java&#34; data-lang=&#34;java&#34;&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;public&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;static&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;void&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;main&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;(&lt;/span&gt;String&lt;span style=&#34;color:#f92672&#34;&gt;[]&lt;/span&gt;args&lt;span style=&#34;color:#f92672&#34;&gt;){&lt;/span&gt;
+	System&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;out&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;println&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello once more!\n&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;);&lt;/span&gt;
+&lt;span style=&#34;color:#f92672&#34;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-asm&#34; data-lang=&#34;asm&#34;&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;MOV&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;X1&lt;/span&gt;, &lt;span style=&#34;color:#75715e&#34;&gt;#1
+&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;LDR&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;X1&lt;/span&gt;, &lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;helloworld&lt;/span&gt;
+&lt;span style=&#34;color:#a6e22e&#34;&gt;MOV&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;X2&lt;/span&gt;, &lt;span style=&#34;color:#75715e&#34;&gt;#13
+&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;MOV&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;X8&lt;/span&gt;, &lt;span style=&#34;color:#75715e&#34;&gt;#64
+&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;SVC&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content>
     </item>
     
   </channel>

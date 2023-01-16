@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>jason&#39;s website</title>
+    <title>Jason Huynh</title>
     <link>https://jhynh.github.io/</link>
-    <description>Recent content on jason&#39;s website</description>
+    <description>Recent content on Jason Huynh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 14 Jan 2023 11:23:22 -0800</lastBuildDate><atom:link href="https://jhynh.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -24,7 +24,8 @@ The Repo can be found here.</description>
       <pubDate>Sat, 14 Jan 2023 11:20:07 -0800</pubDate>
       
       <guid>https://jhynh.github.io/posts/post_2/</guid>
-      <description>Reliability was an issue but it was refreshing to get responses based on conceptual questions. A refreshing alternative to using a traditional search engine.</description>
+      <description>Reliability was an issue but it was refreshing to get responses based on conceptual questions. A refreshing alternative to using a traditional search engine.
+A beginner&amp;rsquo;s question answered with sufficient and straightforward instructions.</description>
     </item>
     
     <item>
@@ -51,13 +52,13 @@ Interests   Furthering my knowledge in Game Engine development
     </item>
     
     <item>
-      <title>my first blog</title>
+      <title>hello world!!!</title>
       <link>https://jhynh.github.io/posts/post_1/</link>
       <pubDate>Thu, 12 Jan 2023 22:10:55 -0800</pubDate>
       
       <guid>https://jhynh.github.io/posts/post_1/</guid>
       <description>hello world in languages I know
-#include&amp;lt;iostream&amp;gt; int main(){ std::cout &amp;lt;&amp;lt; &amp;#34;hello person!&amp;#34; &amp;lt;&amp;lt; std::endl; return 0; } printf(&amp;#34;hello again!&amp;#34;) public static void main(String[]args){ System.out.println(&amp;#34;Hello once more!\n&amp;#34;); } </description>
+#include&amp;lt;iostream&amp;gt; int main(){ std::cout &amp;lt;&amp;lt; &amp;#34;hello person!&amp;#34; &amp;lt;&amp;lt; std::endl; return 0; } printf(&amp;#34;hello again!&amp;#34;) public static void main(String[]args){ System.out.println(&amp;#34;Hello once more!\n&amp;#34;); } MOV X1, #1 LDR X1, =helloworld MOV X2, #13 MOV X8, #64 SVC 0 </description>
     </item>
     
   </channel>
